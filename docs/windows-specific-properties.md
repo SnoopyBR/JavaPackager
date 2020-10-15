@@ -23,7 +23,7 @@
 	<!-- setup generation properties -->
 	<setupLanguages>
 		<english>compiler:Default.isl</english>
-		<spanish>compiler:Languages\Spanish.isl</english>
+		<spanish>compiler:Languages\Spanish.isl</spanish>
 		[...]
 	</setupLanguages>
 	<disableDirPage>true|false</disableDirPage>
